@@ -4291,17 +4291,17 @@ __metadata:
   linkType: hard
 
 "cacheable-request@npm:^10.2.1":
-  version: 10.2.2
-  resolution: "cacheable-request@npm:10.2.2"
+  version: 10.2.7
+  resolution: "cacheable-request@npm:10.2.7"
   dependencies:
     "@types/http-cache-semantics": "npm:^4.0.1"
     get-stream: "npm:^6.0.1"
-    http-cache-semantics: "npm:^4.1.0"
-    keyv: "npm:^4.5.0"
+    http-cache-semantics: "npm:^4.1.1"
+    keyv: "npm:^4.5.2"
     mimic-response: "npm:^4.0.0"
-    normalize-url: "npm:^7.2.0"
+    normalize-url: "npm:^8.0.0"
     responselike: "npm:^3.0.0"
-  checksum: 4bed535780251e3ad0d59bfcb25d5614911c2325968e8c9fb58505fd55bb25eb09a9d4bb743779928054738d0f48e31a5128c6fa6d2958ef0cd2b3a761564e4e
+  checksum: c67412734c26b65a72b4ffe4fa1f5e7868c062a36b5f83d1e1e9f2ccae35d85e0d0933c1b0aa9587e2c9f1768e782af6b3f98f0b1274f09f3b1498b8640bc0cf
   languageName: node
   linkType: hard
 
@@ -6469,6 +6469,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"http-cache-semantics@npm:^4.1.1":
+  version: 4.1.1
+  resolution: "http-cache-semantics@npm:4.1.1"
+  checksum: 7b4d86f99fb3f07b6a49219420ebdffa077ee99bc5fe1df1f353b84c3d321c767a083a48291afb2fc34a627661b6d54c80a927639a7be9e0c43e8c4f921816bd
+  languageName: node
+  linkType: hard
+
 "http-parser-js@npm:>=0.5.1":
   version: 0.5.8
   resolution: "http-parser-js@npm:0.5.8"
@@ -7563,12 +7570,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"keyv@npm:^4.5.0":
-  version: 4.5.0
-  resolution: "keyv@npm:4.5.0"
+"keyv@npm:^4.5.2":
+  version: 4.5.2
+  resolution: "keyv@npm:4.5.2"
   dependencies:
     json-buffer: "npm:3.0.1"
-  checksum: da87023748eb7eb2bbc93589367b54b985fd678fb14d1d5c4437417804ef6f54ce23a6a094038edc439f125c037034acff6e099153b73c03abd7e2006787c30a
+  checksum: 921f26a3e32ae0cd0baabbcf1e8957bddfa675d51783e2ad19256db423c8d1c40c9aafbe892584dbe72a045389bfdc2572a7f182c4b29e32c6165990df161978
   languageName: node
   linkType: hard
 
@@ -8243,10 +8250,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"normalize-url@npm:^7.2.0":
-  version: 7.2.0
-  resolution: "normalize-url@npm:7.2.0"
-  checksum: 078ec041f13f2098b72030b150ae8c6a8b36a7027b7b2e0c3f1ed5115ea230eaa94afc6ffb1962ab8c04c18f68be6fcacd5431ab2c1665fb22049a6850968157
+"normalize-url@npm:^8.0.0":
+  version: 8.0.0
+  resolution: "normalize-url@npm:8.0.0"
+  checksum: 4b04301ebce90440cb0b4cb06cfc71a22c5c1822c7c739e7220e329ee015f475f006d2b6aec717587b1f130e312df191e5d8ade609612e1c3eb633e319d4da4d
   languageName: node
   linkType: hard
 
